@@ -12,3 +12,12 @@ A Dijkstra’s algorithm should be applied to find shortest path between two ent
 Input file containing the network information will be loaded, Shortest path is calculated from the router , Implemented code finds out all those possibilities for a given network and will display only last calculated path for the connection table interfaces and then finds out the optimal path between two selected routers (source and destination nodes) .
 
 Cost from the Network Topology File are loaded into Dimensional Network Array. The Path, Cost of the travel and Visited Status are Stored in another 2-Dimensional Array based on Computations done on the Values of Network Array, these values are printed to show the path of travel and cost of travel.
+
+
+Sample Cost Mathrix:
+
+0 -1 5 1 -1
+-1 0 -1 7 9
+5 -1 0 -1 4
+1 7 -1 0 2
+-1 9 4 2 0
