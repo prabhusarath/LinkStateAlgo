@@ -21,3 +21,6 @@ Sample Cost Mathrix:
 5 -1 0 -1 4
 1 7 -1 0 2
 -1 9 4 2 0
+
+The Above Matrix is a 5 Node Network ,Which are Connected.
+0 -> Self , -1 -> Not Connected and Other Values are Cost
