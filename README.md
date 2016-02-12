@@ -23,4 +23,4 @@ Sample Cost Mathrix:
 The Above Matrix is a 5 Node Network ,Which are Connected.
 0 -> Self , -1 -> Not Connected and Other Values are Cost
 
-Other Options like Creating Connection Table,Shortest Path, Deleting Node from Network has Been Added.
+Options like Creating Connection Table,Shortest Path, Deleting Node from Network has Been Added.
